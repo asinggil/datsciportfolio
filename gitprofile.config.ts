@@ -79,7 +79,7 @@ const CONFIG = {
     email: 'alamsuryainggil001@gmail.com',
   },
   resume: {
-    fileUrl:
+    fileUrl:'', //kosongan
       //'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
