@@ -20,12 +20,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['asinggil/datsciportfolio', 'asinggil/asinggil.github.io', 'asinggil/Course-2-Week-Data-Science-Course', 'asinggil/watsonstudiorepotest'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['asinggil/DataScienceProject1-SpaceY', 'asinggil/FinalAssignmentCourse5'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -86,6 +86,7 @@ const CONFIG = {
     'Python',
     'SQL',
     'Tableau',
+    'Ms. Excel',
     //'React.js',
     //'Node.js',
     //'Nest.js',
@@ -124,16 +125,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Sebelas Maret University',
+      degree: ''Bachelor's Degree in Physics'',
+      from: '2018',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'SMA N 1 Wonogiri',
+      degree: '',
+      from: '2015',
+      to: '2016',
     },
   ],
   publications: [
