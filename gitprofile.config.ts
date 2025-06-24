@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['asinggil/datsciportfolio', 'asinggil/asinggil.github.io', 'asinggil/Course-2-Week-Data-Science-Course', 'asinggil/watsonstudiorepotest'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['datsciportfolio', 'asinggil.github.io', 'Course-2-Week-Data-Science-Course', 'watsonstudiorepotest'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -126,7 +126,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Sebelas Maret University',
-      degree: ''Bachelor's Degree in Physics'',
+      degree: 'B.Sc. in Physics',
       from: '2018',
       to: '2022',
     },
@@ -134,7 +134,7 @@ const CONFIG = {
       institution: 'SMA N 1 Wonogiri',
       degree: '',
       from: '2015',
-      to: '2016',
+      to: '2018',
     },
   ],
   publications: [
