@@ -159,7 +159,7 @@ const CONFIG = {
     {
       title: 'Solution of Klein-Gordon equation screened Hartmann ring-shaped plus Kratzer potential using hypergeometry method',
       conferenceName: 'AIP Conference Proceedings',
-      journalName: 'AIP Conference Proceedings',
+      journalName: '',
       authors: 'A. S. Inggil, A. Suparmi, S. Faniandari',
       link: 'https://www.researchgate.net/publication/367512338_Solution_of_Klein-Gordon_equation_screened_Hartmann_ring-shaped_plus_Kratzer_potential_using_hypergeometry_method',
       description:
