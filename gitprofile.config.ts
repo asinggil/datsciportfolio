@@ -29,9 +29,9 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      //header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
-      projects: [
+      //projects: [
         {
           //title: 'Project Name',
           //description:
@@ -117,28 +117,28 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Data Analytics Mini Course',
+      body: 'RevoU',
+      year: 'December 2023',
+      link: 'https://drive.google.com/file/d/1mItUUmnOK0J1x83qlIENgvsYziuFHbgc/view',
     },
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Introduction to Data Science Specialization',
+      body: 'IBM',
+      year: 'August 2024',
+      link: 'https://coursera.org/share/4596ca04965a17f37764ea3ab73e2058',
     },
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Data Science Professional Certificate',
+      body: 'IBM',
+      year: 'August 2024',
+      link: 'https://coursera.org/share/75685fe45cd7eac35401234971fe4dae',
     },
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Machine Learning Specialization',
+      body: 'DeepLearning.ai & Stanford University',
+      year: 'September 2024',
+      link: 'https://coursera.org/share/00e8d43393e49337e0bbdd756f9c553c',
     },
   ],
   educations: [
@@ -157,13 +157,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Solution of Klein-Gordon equation screened Hartmann ring-shaped plus Kratzer potential using hypergeometry method',
+      conferenceName: 'AIP Conference Proceedings',
+      journalName: 'AIP Conference Proceedings',
+      authors: 'A. S. Inggil, A. Suparmi, S. Faniandari',
+      link: 'https://www.researchgate.net/publication/367512338_Solution_of_Klein-Gordon_equation_screened_Hartmann_ring-shaped_plus_Kratzer_potential_using_hypergeometry_method',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Klein-Gordon Equation is an equation that describes dynamic of a spin-0 particle in quantum mechanics with relativistic energy. The Klein-Gordon equation can be formed as Schrodinger-like equation. Hypergeometry method can be used to find a solution to the Schrodinger equation, by introducing new variable and then reduce the equation into second-order differential equations. By hypergeometric method we can solve the Klein-Gordon equation for Screened Hartmann Ring-Shaped plus Kratzer potential and find the energy equation. According to the results of the energy, the energy of the meson particle increase if the orbital quantum number L increase, and the energy decrease if the radial quantum number nr increase.',
     },
     {
       //title: 'Publication Title',
