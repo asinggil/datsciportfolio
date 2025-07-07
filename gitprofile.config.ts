@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Data Science and Machine Learning Github Projects',
+      header: 'Data Analytics, Data Science and Machine Learning Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          //title: 'Project Name',
-          //description:
-          //  'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          //imageUrl:
-          //  'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          //link: 'https://example.com',
+          title: 'Video Game Sales Analysis using Spreadsheet',
+          description:
+            'A video game sales data analysis project using spreadsheet. The dataset that is used on this analysis consists 16714 rows and 10 columns. The data contains video games sales data from 1976 - 2016 accross different platforms',
+          imageUrl:
+            'https://drive.google.com/file/d/1zG5-wOWcVlKjBDJhwvjaNqbn4V9ii8lJ/view?usp=sharing',
+          link: 'https://docs.google.com/spreadsheets/d/1HoFshlHFbZ1AruY993hsRavDyz5aK-NT/edit?usp=sharing&ouid=100052237031734965140&rtpof=true&sd=true',
         },
         {
           //title: 'Project Name',
